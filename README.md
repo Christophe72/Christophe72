@@ -71,6 +71,16 @@ Je m’intéresse particulièrement à :
 ![Christophe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopheSeyler&show_icons=true&hide_title=true&title_color=0077b6&icon_color=00b4d8&text_color=023e8a&bg_color=ffffff)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopheSeyler&layout=compact&langs_count=6&title_color=ef476f&text_color=118ab2&bg_color=ffffff&icon_color=06d6a0)
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ChristopheSeyler.ChristopheSeyler)  
+
+👉 Ce profil est une vitrine de mon parcours et de mes projets. Je construis pas à pas une passerelle entre le monde de l’électricité et celui de l’informatique.  
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=120&section=footer)
+
+![Christophe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopheSeyler&show_icons=true&hide_title=true&title_color=0077b6&icon_color=00b4d8&text_color=023e8a&bg_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopheSeyler&layout=compact&langs_count=6&title_color=ef476f&text_color=118ab2&bg_color=ffffff&icon_color=06d6a0)
 isitors](https://visitor-badge.laobi.icu/badge?page_id=TonPseudoGitHub.TonPseudoGitHub)  
 
 👉 Ce profil est une vitrine de mon parcours et de mes projets. Je construis pas à pas une passerelle entre le monde de l’électricité et celui de l’informatique.  
