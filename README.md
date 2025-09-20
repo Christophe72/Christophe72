@@ -55,7 +55,6 @@ Je m’intéresse particulièrement à :
 
 ![Christophe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopheSeyler&show_icons=true&hide_title=true&title_color=0077b6&icon_color=00b4d8&text_color=023e8a&bg_color=ffffff)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopheSeyler&layout=compact&langs_count=4&hide=javascript,html,css,shell,ruby&title_color=ef476f&text_color=118ab2&bg_color=ffffff&icon_color=06d6a0&custom_langs=Java,C,Python,TypeScript)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ChristopheSeyler.ChristopheSeyler)  
 
