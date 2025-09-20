@@ -51,10 +51,6 @@ Je m’intéresse particulièrement à :
 
 ---
 
-## 📊 Stats GitHub
-
-![Christophe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopheSeyler&show_icons=true&hide_title=true&title_color=0077b6&icon_color=00b4d8&text_color=023e8a&bg_color=ffffff)
-
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ChristopheSeyler.ChristopheSeyler)  
 
