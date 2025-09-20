@@ -68,10 +68,8 @@ Je m’intéresse particulièrement à :
 ---
 
 ## 📊 Stats GitHub  
-
-![Christophe's GitHub stats](https://github-readme-stats.vercel.app/api?username=TonPseudoGitHub&show_icons=true&theme=tokyonight)  
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonPseudoGitHub&layout=compact&theme=tokyonight)  
+<img src="https://github-readme-stats.vercel.app/api?username=christopheseyler&show_icons=true&theme=tokyonight" alt="Stats GitHub" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopheseyler&layout=compact&theme=tokyonight" alt="Top Langs" />
 
 ---
 
