@@ -66,14 +66,12 @@ Je m’intéresse particulièrement à :
 - 🌍 **Portfolio** : [mon-portfolio.com](#)  
 
 ---
+## 📊 Stats GitHub
 
-## 📊 Stats GitHub  
-<img src="https://github-readme-stats.vercel.app/api?username=christopheseyler&show_icons=true&theme=tokyonight" alt="Stats GitHub" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=christopheseyler&layout=compact&theme=tokyonight" alt="Top Langs" />
+![Christophe's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChristopheSeyler&show_icons=true&hide_title=true&title_color=0077b6&icon_color=00b4d8&text_color=023e8a&bg_color=ffffff)
 
----
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=TonPseudoGitHub.TonPseudoGitHub)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChristopheSeyler&layout=compact&langs_count=6&title_color=ef476f&text_color=118ab2&bg_color=ffffff&icon_color=06d6a0)
+isitors](https://visitor-badge.laobi.icu/badge?page_id=TonPseudoGitHub.TonPseudoGitHub)  
 
 👉 Ce profil est une vitrine de mon parcours et de mes projets. Je construis pas à pas une passerelle entre le monde de l’électricité et celui de l’informatique.  
 
