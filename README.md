@@ -4,8 +4,8 @@
 
 🔌 **Électricien en reconversion informatique**  
 💻 Passionné par le **développement logiciel**, l’**IoT**, et l’**automatisation**  
-📍 Basé en Belgique  
-
+📍 Basé en Belgique à Liége
+   
 ---
 
 ## 🌟 À propos de moi  
