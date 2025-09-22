@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=220&section=header&text=Christophe%20Seyler&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35)
 
-# 👋 Bonjour, je suis Christophe Seyler  
+# 👋 Bonjour, je suis Christophe   
 
 🔌 **Électricien en reconversion informatique**  
 💻 Passionné par le **développement logiciel**, l’**IoT**, et l’**automatisation**  
