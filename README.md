@@ -21,6 +21,41 @@ Je m’intéresse particulièrement à :
 
 ---
 
+## Mes applications principales
+
+### 1. Reconnaissance matériel électrique IA
+**Lien :** [reconnaissance-materiel-electrique-ia](https://github.com/Christophe72/reconnaissance-materiel-electrique-ia)
+
+Ce projet en Python vise à automatiser la reconnaissance de matériel électrique grâce à l’intelligence artificielle.  
+Il permet, grâce à des scripts, d’identifier automatiquement différents équipements électriques.
+- **Pour qui ?** Adapté aux personnes souhaitant faciliter l’identification de matériel, même sans savoir coder.
+- **Comment ça marche ?** On télécharge le projet, on lance les scripts Python et l’IA s’occupe du reste.
+
+---
+
+### 2. Electrical Managemen
+**Lien :** [electrical-managemen](https://github.com/Christophe72/electrical-managemen)
+
+Application réalisée en TypeScript sous licence MIT, destinée à la gestion des équipements et installations électriques.
+- **Pour qui ?** Idéal pour les gestionnaires, techniciens ou toute personne souhaitant organiser ses équipements électriques.
+- **Fonctionnement :** L’application propose une interface simple pour suivre, organiser et gérer le matériel électrique.
+- **Avantage :** Utilisation intuitive, ouverte à l’évolution, même pour les débutants.
+
+---
+
+### 3. Quiz Certification RGIE
+**Lien :** [quiz-certification-rgie](https://github.com/Christophe72/quiz-certification-rgie)
+
+Projet TypeScript pour s’entraîner aux questions de certification RGIE (Règlement Général sur les Installations Électriques).
+- **Pour qui ?** Toute personne souhaitant tester ses connaissances pour la certification RGIE.
+- **Fonctionnement :** On répond aux quiz pour s’entraîner et mieux préparer l’examen.
+- **Objectif :** Rendre l’apprentissage ludique et accessible à tous.
+
+---
+
+> Pour chaque projet, pas besoin d’être informaticien !  
+> L’installation et l’utilisation sont pensées pour être simples et accessibles à toute personne motivée par l’électricité, la gestion ou la formation.
+
 ## 🧰 Compétences principales  
 
 ### Développement  
