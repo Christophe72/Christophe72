@@ -52,7 +52,27 @@ Projet TypeScript pour s’entraîner aux questions de certification RGIE (Règl
 - **Objectif :** Rendre l’apprentissage ludique et accessible à tous.
 
 ---
+### 4. Gestion Stock Société Électrique
+**Lien :** [gestion-stock-societe-electrique](https://github.com/Christophe72/gestion-stock-societe-electrique)
 
+Ce projet permet de gérer le stock d’une société spécialisée dans l’électricité.  
+- **Utilité :** Suivre les entrées et sorties du matériel, éviter les ruptures de stock et optimiser les achats.
+- **Pour qui ?** Les responsables de stock, gestionnaires ou toute personne souhaitant organiser le matériel d’une entreprise d’électricité.
+- **Simplicité :** Une interface pensée pour être facile à utiliser, même sans compétences informatiques avancées.
+
+---
+
+### 5. App Société Elec
+**Lien :** [app_societe_elec](https://github.com/Christophe72/app_societe_elec)
+
+Cette application regroupe plusieurs outils pour aider à la gestion quotidienne d’une société d’électricité.
+- **Fonctions principales :** Gestion des clients, des interventions, du matériel et des factures.
+- **Pour qui ?** Les artisans, PME ou toute entreprise du secteur électrique cherchant à centraliser ses informations.
+- **Philosophie :** Tout est conçu pour faciliter la vie de l’utilisateur, avec des fonctionnalités accessibles et une prise en main rapide.
+
+---
+
+> Ces projets sont pensés pour rendre la gestion d’une société d’électricité plus simple et plus efficace, sans exiger de connaissances techniques avancées.
 > Pour chaque projet, pas besoin d’être informaticien !  
 > L’installation et l’utilisation sont pensées pour être simples et accessibles à toute personne motivée par l’électricité, la gestion ou la formation.
 
