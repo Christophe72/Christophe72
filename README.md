@@ -71,7 +71,17 @@ Cette application regroupe plusieurs outils pour aider à la gestion quotidienne
 - **Philosophie :** Tout est conçu pour faciliter la vie de l’utilisateur, avec des fonctionnalités accessibles et une prise en main rapide.
 
 ---
+### 6. Calculs Électriques
+**Lien :** [calculs-electriques](https://github.com/Christophe72/calculs-electriques)
 
+Ce projet Java propose des outils de calcul et d’affichage pour faciliter le travail autour des installations électriques.
+- **Utilité :** Effectuer des calculs électriques simples (par exemple : intensité, puissance, résistance…) et afficher les résultats de façon claire.
+- **Pour qui ?** Toute personne souhaitant s’initier aux calculs électriques ou vérifier ses résultats facilement, même sans connaissances en programmation.
+- **Simplicité :** Il suffit de lancer le programme Java pour obtenir des calculs automatisés, sans complexité.
+
+---
+
+> Ce projet est idéal pour apprendre ou vérifier rapidement des calculs électriques, sans prise de tête ni jargon technique.
 > Ces projets sont pensés pour rendre la gestion d’une société d’électricité plus simple et plus efficace, sans exiger de connaissances techniques avancées.
 > Pour chaque projet, pas besoin d’être informaticien !  
 > L’installation et l’utilisation sont pensées pour être simples et accessibles à toute personne motivée par l’électricité, la gestion ou la formation.
