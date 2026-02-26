@@ -37,7 +37,9 @@ Je m’intéresse particulièrement à :
 - 🔍 **Outil d’aide au diagnostic électrique** basé sur l’IA  
 
 ---
+## 🧠 Contribution Graph
 
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Christophe72&theme=github)
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=ChristopheSeyler.ChristopheSeyler)  
 
